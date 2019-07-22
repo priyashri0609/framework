@@ -24,6 +24,7 @@ public class LoginDetail {
 		System.setProperty("webdriver.gecko.driver","/Users/priya/Downloads/geckodriver 3" ); 
 	this.driver=driver;
 	}
+	//hi
 	public void loginclick()
 	{
 		driver.findElement(user99GuruName).click();
